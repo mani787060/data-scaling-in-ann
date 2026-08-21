@@ -23,7 +23,7 @@ The main objectives of this project are to:
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The project uses the **Social Network Ads** dataset.
 
@@ -42,7 +42,7 @@ The target represents whether the user purchased the product.
 
 ---
 
-## ❓ Why is Scaling Important?
+## Why is Scaling Important?
 
 Consider two features:
 
@@ -66,7 +66,7 @@ Scaling puts features on comparable ranges and helps gradient-based optimization
 
 ---
 
-## 🔵 Standardization
+## Standardization
 
 Standardization transforms the data so that the feature generally has:
 
@@ -85,7 +85,7 @@ Scaled Data
 
 ---
 
-## 🟠 Min-Max Scaling
+## Min-Max Scaling
 
 Min-Max Scaling transforms values into a fixed range, commonly:
 
@@ -99,7 +99,7 @@ Scikit-learn provides **MinMaxScaler** for this purpose.
 
 ---
 
-## 🔬 Project Workflow
+## Project Workflow
 
 The notebook follows the following workflow:
 
@@ -116,7 +116,7 @@ The notebook follows the following workflow:
 
 ---
 
-## 📈 Before vs After Scaling
+## Before vs After Scaling
 
 The notebook uses visualization to understand how scaling changes the numerical representation of the features.
 
@@ -130,7 +130,7 @@ Features are brought into comparable numerical ranges, making them more suitable
 
 ---
 
-## 🧠 Key Concepts Covered
+## Key Concepts Covered
 
 * Feature Scaling
 * Standardization
@@ -145,7 +145,7 @@ Features are brought into comparable numerical ranges, making them more suitable
 
 ---
 
-## 🔑 Key Learnings
+## Key Learnings
 
 ### 1. Feature Scale Matters
 
@@ -165,7 +165,7 @@ Scatter plots provide an intuitive way to understand how scaling changes feature
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Python**
 * **NumPy**
@@ -177,7 +177,7 @@ Scatter plots provide an intuitive way to understand how scaling changes feature
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 After completing this project, I gained a better understanding of:
 
@@ -190,7 +190,7 @@ After completing this project, I gained a better understanding of:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 Possible extensions of this project include:
 
@@ -203,7 +203,7 @@ Possible extensions of this project include:
 
 ---
 
-## 💡 Final Takeaway
+## Final Takeaway
 
 **Data scaling is not just a preprocessing step—it can directly affect how efficiently a neural network learns.**
 
